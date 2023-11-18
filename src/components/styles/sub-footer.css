@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Actor&family=Poppins&family=Roboto&display=swap");
+
+.subFooter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 5em 0 7em 0;
+  padding: 0 10em;
+}
+
+.sf-logo {
+  display: flex;
+  flex-direction: row;
+  margin: 0 0 3em 0;
+}
+
+.sf-logo-text {
+  color: #008080;
+  font-family: Poppins;
+  font-size: 1.375rem;
+  font-weight: 600;
+  margin: 0 0 0 0.5em;
+}
+
+.col1-text {
+  font-family: Roboto;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.col-heading {
+  font-family: Roboto;
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin: 0 0 0 2.5em;
+}
+
+.sb-ul{
+    list-style-type: none;
+    line-height: 250%;
+}
+
+.sb-li {
+  color: #929292;
+  font-family: Roboto;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  letter-spacing: 0.04688rem;
+}
+
+.sb-li-img{
+    vertical-align: middle;
+}

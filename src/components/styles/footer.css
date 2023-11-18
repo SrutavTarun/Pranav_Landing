@@ -1,0 +1,16 @@
+.footer {
+  width: 100vw;
+  height: 7.8125rem;
+  background: #006d77;
+  color: white;
+  font-family: Roboto;
+  font-weight: 600;
+  text-align: center;
+}
+
+.footer-text {
+  color: white;
+  font-family: Roboto;
+  font-weight: 600;
+  padding: 3.3em 0;
+}
